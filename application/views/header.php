@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="<?=base_url()?>assets/css/styles-merged.css">
     <link rel="stylesheet" href="<?=base_url()?>assets/css/style.min.css">
     <link rel="stylesheet" href="<?=base_url()?>assets/css/custom.css">
-
+    <meta name="google-site-verification" content="sD9u6xRv4AiOMYEG4d2OgEwuiKv8-3JC0LEdhIquD3s" />
     <!--[if lt IE 9]>
       <script src="js/vendor/html5shiv.min.js"></script>
       <script src="js/vendor/respond.min.js"></script>
